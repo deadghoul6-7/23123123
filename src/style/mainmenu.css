@@ -1,0 +1,17 @@
+.main-menu .container {
+    background: linear-gradient(45deg, rgb(193, 195, 29) 39%, rgb(212, 40, 14));
+}
+.main-menu__p {
+    color:red;
+}
+
+.list-menu a {
+    text-decoration: none;
+    color: green;
+}
+
+.list-menu a:hover {
+    text-decoration: underline;
+    color:darkgreen;
+    transition: all .3s;
+}
